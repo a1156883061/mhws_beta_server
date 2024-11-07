@@ -1,5 +1,13 @@
-## mhws_beta_server
+## APOLOGIZE
+Due to my oversight in code review, sensitive information was exposed, causing inconvenience and confusion for other developers. I apologize to the other developers and ask them to refer to [#3](https://github.com/KujouRinka/mhws_beta_server/issues/3) and [#4](https://github.com/KujouRinka/mhws_beta_server/pull/4).
 
+由于本人审查代码疏忽导致出现了敏感信息而给其他开发者造成了不便于困惑，在这里向其他开发者致歉，请参考 [#3](https://github.com/KujouRinka/mhws_beta_server/issues/3) 与 [#4](https://github.com/KujouRinka/mhws_beta_server/pull/4)
+
+I hope everyone can learn from my example and avoid making such stupid mistakes out of negligence.
+
+希望大家以我为戒，不要因为疏忽做出这么愚蠢的事
+
+## mhws_beta_server
 Here’s a project simulating server requests for the Monster Hunter Wilds Beta Test version.
 
 这是模拟 Monster Hunter Wilds Beta test 版本服务器请求的项目。
