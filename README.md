@@ -16,6 +16,7 @@ The `cert` directory contains certificate files generated for mhws.io, but it is
 
 ### Known Issues
 没试过能不能从空档启动游戏，随缘吧，有需求的话后面再说
+你需要自己的 steam rebe token 包
 
 ### Usage
 
