@@ -1,7 +1,7 @@
-## APOLOGIZE
-Due to my oversight in code review, sensitive information was exposed, causing inconvenience and confusion for other developers. I apologize to the other developers and ask them to refer to [#3](https://github.com/KujouRinka/mhws_beta_server/issues/3) and [#4](https://github.com/KujouRinka/mhws_beta_server/pull/4).
+## Apology
+Due to my oversight in code review, sensitive information was exposed, causing inconvenience and confusion for other developers. I apologize to the other developers([APOLOGY.md](APOLOGY.md)), refer to [#3](https://github.com/KujouRinka/mhws_beta_server/issues/3) and [#4](https://github.com/KujouRinka/mhws_beta_server/pull/4).
 
-由于本人审查代码疏忽导致出现了敏感信息而给其他开发者造成了不便于困惑，在这里向其他开发者致歉，请参考 [#3](https://github.com/KujouRinka/mhws_beta_server/issues/3) 与 [#4](https://github.com/KujouRinka/mhws_beta_server/pull/4)
+由于本人审查代码疏忽导致出现了敏感信息而给其他开发者造成了不便于困惑，在这里向其他开发者致歉([APOLOGY.md](APOLOGY.md))，请参考 [#3](https://github.com/KujouRinka/mhws_beta_server/issues/3) 与 [#4](https://github.com/KujouRinka/mhws_beta_server/pull/4)
 
 I hope everyone can learn from my example and avoid making such stupid mistakes out of negligence.
 
@@ -12,10 +12,11 @@ Here’s a project simulating server requests for the Monster Hunter Wilds Beta 
 
 这是模拟 Monster Hunter Wilds Beta test 版本服务器请求的项目。
 
-### Disclaimer
-This project is intended solely for educational and learning purposes and must not be used for commercial purposes. I assume no legal responsibility for any misuse of this project.
 
-免责声明：本项目内容不得用于商业用途，仅做学习交流。本人尚不承担由于不当使用该项目所产生的法律责任。
+### Disclaimer
+This project is intended solely for educational and learning purposes and must not be used for commercial purposes. Please delete this software within 24 hours of downloading. We do not take any responsibility for any illegal usage or distribution of this software.
+
+免责声明：本项目内容不得用于商业用途，仅做学习交流，请在下载后24小时内删除。我们不对任何非法使用或传播此软件的行为承担责任。
 
 ### Notes
 The `cert` directory contains certificate files generated for mhws.io, but it is recommended that you generate your own certificates.
@@ -23,8 +24,7 @@ The `cert` directory contains certificate files generated for mhws.io, but it is
 `cert` 目录下为 `mhws.io` 生成的证书文件，但建议你自己生成。
 
 ### Known Issues
-没试过能不能从空档启动游戏，随缘吧，有需求的话后面再说
-你需要自己的 steam rebe token 包
+~~没试过能不能从空档启动游戏，随缘吧，有需求的话后面再说~~
 
 ### Usage
 
@@ -127,3 +127,8 @@ TL;DR
 `Proxifier` + `mitmproxy` 只是本人用的方案，方便调试而已，实际用起来挺麻烦的，平常使用推荐 `Charles`
 
 最后，善用搜索！善用搜索！善用搜索！
+
+### Thanks
+[@EdLovecraft](https://github.com/EdLovecraft)
+
+[@Evilmass](https://github.com/Evilmass)
