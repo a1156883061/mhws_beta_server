@@ -1,0 +1,8 @@
+services:
+  server:
+    build: .
+    volumes:
+      - /home/thecrown/certs/haoyuanlord.com/privkey.pem:/app/cert/website.key
+      - /home/thecrown/certs/haoyuanlord.com/cert.pem:/app/cert/website.crt
+    ports:
+      - "443:443"
