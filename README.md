@@ -92,6 +92,8 @@ TL;DR
       ```
       OK
   - 保持 `Proxifier` 开启状态
+
+  **注意**：需要保证在 Rules 中 `Python` 在 `Wilds` 之上，而 `Wilds` 在 `Localhost` 之上
 - 配置 `mitmproxy`
   - 安装 `mitmproxy` 证书（搜索引擎可查）
   - 找一个位置将以下内容写入 `main.py` 文件：
